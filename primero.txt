@@ -1,1 +1,2 @@
-Este es el primera linea del primero.txt
+Este es la primera linea del primero.txt
+Ademas le añado la segunda linea.
