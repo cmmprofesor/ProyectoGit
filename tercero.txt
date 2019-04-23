@@ -1,1 +1,2 @@
 Esta es la primera linea de tercero.txt
+Introducimos un segunda linea en tercero.txt.
